@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\DataBaseForm\DataBaseForm\bin\Debug\DataBaseForm.exe.config
+C:\Users\admin\source\repos\DataBaseForm\DataBaseForm\bin\Debug\DataBaseForm.exe
+C:\Users\admin\source\repos\DataBaseForm\DataBaseForm\bin\Debug\DataBaseForm.pdb
+C:\Users\admin\source\repos\DataBaseForm\DataBaseForm\obj\Debug\DataBaseForm.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\DataBaseForm\DataBaseForm\obj\Debug\DataBaseForm.Form1.resources
+C:\Users\admin\source\repos\DataBaseForm\DataBaseForm\obj\Debug\DataBaseForm.Properties.Resources.resources
+C:\Users\admin\source\repos\DataBaseForm\DataBaseForm\obj\Debug\DataBaseForm.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\DataBaseForm\DataBaseForm\obj\Debug\DataBaseForm.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DataBaseForm\DataBaseForm\obj\Debug\DataBaseForm.exe
+C:\Users\admin\source\repos\DataBaseForm\DataBaseForm\obj\Debug\DataBaseForm.pdb
+G:\практика\code\DataBaseForm\DataBaseForm\obj\Debug\DataBaseForm.csprojAssemblyReference.cache
+G:\практика\code\DataBaseForm\DataBaseForm\obj\Debug\DataBaseForm.Form1.resources
+G:\практика\code\DataBaseForm\DataBaseForm\obj\Debug\DataBaseForm.Properties.Resources.resources
+G:\практика\code\DataBaseForm\DataBaseForm\obj\Debug\DataBaseForm.csproj.GenerateResource.cache
+G:\практика\code\DataBaseForm\DataBaseForm\obj\Debug\DataBaseForm.csproj.CoreCompileInputs.cache
+G:\практика\code\DataBaseForm\DataBaseForm\obj\Debug\DataBaseForm.exe
+G:\практика\code\DataBaseForm\DataBaseForm\obj\Debug\DataBaseForm.pdb

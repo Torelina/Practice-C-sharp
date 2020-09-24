@@ -1,0 +1,7 @@
+G:\практика\code\Database\Database connection\obj\Debug\Database connection.csprojAssemblyReference.cache
+G:\практика\code\Database\Database connection\obj\Debug\Database connection.csproj.CoreCompileInputs.cache
+G:\практика\code\Database\Database connection\bin\Debug\Database connection.exe.config
+G:\практика\code\Database\Database connection\bin\Debug\Database connection.exe
+G:\практика\code\Database\Database connection\bin\Debug\Database connection.pdb
+G:\практика\code\Database\Database connection\obj\Debug\Database connection.exe
+G:\практика\code\Database\Database connection\obj\Debug\Database connection.pdb
